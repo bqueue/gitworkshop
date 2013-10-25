@@ -1,1 +1,2 @@
 This is not foo
+one more change in the bar
